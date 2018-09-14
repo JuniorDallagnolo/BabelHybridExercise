@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/dall0078/UntitledAssigment/issues"
   },
-  "homepage": "https://github.com/dall0078/UntitledAssigment#readme"
+  "homepage": "https://github.com/dall0078/UntitledAssigment#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
 }
