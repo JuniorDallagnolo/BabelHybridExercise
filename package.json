@@ -1,0 +1,20 @@
+{
+  "name": "UntitledAssigment",
+  "version": "1.0.0",
+  "description": "My First Hybrid Assignment for MAD9135 using Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dall0078/UntitledAssigment.git"
+  },
+  "keywords": [],
+  "author": "Ernilo Dallagnolo Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dall0078/UntitledAssigment/issues"
+  },
+  "homepage": "https://github.com/dall0078/UntitledAssigment#readme"
+}
