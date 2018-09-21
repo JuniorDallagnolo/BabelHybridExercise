@@ -1,24 +1,28 @@
 {
-  "name": "UntitledAssigment",
+  "name": "BabelHybridExercise",
   "version": "1.0.0",
   "description": "My First Hybrid Assignment for MAD9135 using Babel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dall0078/UntitledAssigment.git"
+    "url": "git+https://github.com/dall0078/BabelHybridExercise.git"
   },
   "keywords": [],
-  "author": "Ernilo Dallagnolo Junior",
+  "author": "Ernilo Dallagnolo Junior <dall0078@algonquinlive.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dall0078/UntitledAssigment/issues"
+    "url": "https://github.com/dall0078/BabelHybridExercise/issues"
   },
-  "homepage": "https://github.com/dall0078/UntitledAssigment#readme",
+  "homepage": "https://github.com/dall0078/BabelHybridExercise#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
   }
 }
